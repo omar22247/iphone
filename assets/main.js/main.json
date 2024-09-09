@@ -1,0 +1,55 @@
+[{
+        "id": 1,
+        "image": "assets/images/gordan.jpeg",
+        "title": "jordan shoes",
+        "price": 120
+    },
+    {
+        "id": 2,
+        "image": "assets/images/camera.jpeg",
+        "title": " DSLR Camera",
+        "price": 60
+    },
+    {
+        "id": 3,
+        "image": "assets/images/pro.jpeg",
+        "title": "Air Pods Pro",
+        "price": 230
+    },
+    {
+        "id": 4,
+        "image": "assets/images/shoes.jpeg",
+        "title": "nike shoes",
+        "price": 100
+    },
+    {
+        "id": 4,
+        "image": "assets/images/labtop.jpeg",
+        "title": "MacBook Pro 16\"",
+        "price": 2400
+    },
+    {
+        "id": 5,
+        "image": "assets/images/watch.jpeg",
+        "title": "Apple Watch Series 6",
+        "price": 400
+    },
+    {
+        "id": 6,
+        "image": "assets/images/phone.jpeg",
+        "title": "iPhone 13 Pro",
+        "price": 999
+    },
+    {
+        "id": 7,
+        "image": "assets/images/tablet.jpeg",
+        "title": "iPad Air",
+        "price": 599
+    },
+    {
+        "id": 8,
+        "image": "assets/images/headphones.jpeg",
+        "title": "Bose Noise Cancelling Headphones",
+        "price": 379
+    }
+]

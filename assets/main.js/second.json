@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "image": "assets/images/gordan.jpeg",
+        "title": "jordan shoes",
+        "price": 120
+    },
+    {
+        "id": 2,
+        "image": "assets/images/camera.jpeg",
+        "title": " DSLR Camera",
+        "price": 60
+    },
+    {
+        "id": 3,
+        "image": "assets/images/pro.jpeg",
+        "title": "Air Pods Pro",
+        "price": 230
+    },
+    {
+        "id": 4,
+        "image": "assets/images/shoes.jpeg",
+        "title": "nike shoes",
+        "price": 100
+    },
+    {
+        "id": 4,
+        "image": "assets/images/labtop.jpeg",
+        "title": "MacBook Pro 16\"",
+        "price": 2400
+    }
+]
